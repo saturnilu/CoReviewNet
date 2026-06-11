@@ -382,9 +382,9 @@ Potential improvements include:
 
 ## Authors
 
-Naila Riani
-Sabrina Salma Almira
-Alvina Aulia
+Naila Riani,
+Sabrina Salma Almira,
+Alvina Aulia, and 
 Kenny Jingga
 
 Research Project:
