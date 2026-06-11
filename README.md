@@ -1,4 +1,4 @@
-# Fake Review Detection using Temporal Graph Networks, XLM-RoBERTa, and GNNExplainer
+# An Explainable Temporal Graph-Based Model with Multilingual Review Similarity for Detecting Coordinated Fake Reviews 
 
 An Explainable Temporal Graph-Based Framework for Detecting Coordinated Fake Reviews in Multilingual E-Commerce Platforms.
 
